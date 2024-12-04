@@ -6,3 +6,4 @@ Zwiebel
 Karotten
 Pommes
 Spinat
+Riesling
