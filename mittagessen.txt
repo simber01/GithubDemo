@@ -4,3 +4,4 @@ Semmeln
 Zwiebel
 Karotten
 Pommes
+Spinat
