@@ -3,3 +3,4 @@ Kartoffeln
 Semmeln
 Zwiebel
 Karotten
+Spinat
